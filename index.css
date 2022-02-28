@@ -1,0 +1,35 @@
+html, body{
+  margin:0;
+  padding:0;
+}
+
+main{
+  margin: 20px;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(226, 62, 84);
+  color:rgb(255, 255, 255);
+}
+
+.props-image{
+  width: 200px;
+  height: 200px;
+  border: 1px solid;
+  vertical-align: middle;
+  float: left;
+  border:none;
+}
+
+.span-goog{
+  padding: 0;
+}
+
+.ping-image{
+  width: 20px;
+  height: 20px;
+  border: none;
+}
